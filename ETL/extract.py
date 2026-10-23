@@ -1,7 +1,7 @@
 
 import csv
-
-
+# Feature update 1: Read source CSV records.
+# Feature update 2: Preserve the CSV column names.
 def extract_data():
     input_file = "data/input.csv"
     rows = []
