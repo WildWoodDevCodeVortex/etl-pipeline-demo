@@ -1,0 +1,26 @@
+[
+    {
+        "employee_id": "101",
+        "name": "Alex",
+        "department": "Engineering",
+        "salary": "85000"
+    },
+    {
+        "employee_id": "102",
+        "name": "Jordan",
+        "department": "Analytics",
+        "salary": "92000"
+    },
+    {
+        "employee_id": "103",
+        "name": "Taylor",
+        "department": "Operations",
+        "salary": "78000"
+    },
+    {
+        "employee_id": "104",
+        "name": "Morgan",
+        "department": "Engineering",
+        "salary": "105000"
+    }
+]
